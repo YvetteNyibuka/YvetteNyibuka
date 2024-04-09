@@ -1,9 +1,4 @@
 ### Hi there 👋
-
-**YvetteNyibuka/YvetteNyibuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Hello!
-
 - 📫 How to reach me: izanyibukayvette@gmail.com
 - 😄 Pronouns:She/Her
 - ⚡ Fun fact: Dancing
